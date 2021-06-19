@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything !
 - 📫 How to reach me 
-    📞 (516) 474 - 6847
-    📧 gjv4512@rit.edu
+    \n📞 (516) 474 - 6847
+    \n📧 gjv4512@rit.edu
       
 
